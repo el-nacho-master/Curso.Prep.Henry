@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+ cualquier agujero en tu comprensión.
+
+	* Variables
+    es un espacio de memoria que se reserva para utilizar en un futuro
+	* Strings
+    tipo de valor de variable, utilizada como texto
+	* Funciones (argumentos, `return`)
+    una funcion es una subrutina que nos permite re utilizar codigo.
+    argumetos son los datos que recibe la funcion
+    return sirve para devolver un resultado
+	* Declaraciones `if`
+    es un tipo de condicional que no permite realizar alguna accion, si se cumplen ciertas condiciones.
+	* Valores booleanos (`true`, `false`)
+    es un tipo de valor de variable que solo puede tomar 2 estados
